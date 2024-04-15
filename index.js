@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["/help"];
+const statusMessages = ["Security | 1.0"];
 
 
 let currentIndex = 0;
